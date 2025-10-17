@@ -1,12 +1,47 @@
+body {
+    background-color: rgb(38, 2, 6);
+    font-family: 'Delius', cursive;
+}
+
+.delius-regular {
+  font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.catsTitle {
+    color: rgb(254, 144, 210);
+}
+
+.etymologyAndNaming {
+    color: rgb(254, 144, 210);
+}
+
 p {
-    color:rgb(105, 6, 94);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 4, 154);
     font-size: medium;
     line-height: 1.5;
 }
 
 h1 {
-    color:rgb(105, 6, 94);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 4, 154);
     font-size: xx-large;
+}
+
+.catPoemTitle {
+    color: rgb(255, 4, 154);
+    font-size: large;
+    line-height: 1;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+}
+
+.catPoemText {
+    color: rgb(255, 4, 154);
+    font-size: large;
+    line-height: 1.6;
+    text-align: center;
+    margin-top: 20px;
 }
