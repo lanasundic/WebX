@@ -1,6 +1,10 @@
 body {
-    background-color: rgb(38, 2, 6);
     font-family: 'Delius', cursive;
+
+    background-image: url("../HTML/pics/background.jpg"); /* putanja do slike */
+    background-size: cover; /* da se slika raširi preko cijele stranice */
+    background-repeat: no-repeat; /* da se ne ponavlja */
+    background-position: center; /* centriraj sliku */
 }
 
 .delius-regular {
